@@ -1,0 +1,43 @@
+name: thimble_trail
+description: Thimble Trail, a cozy quilt puzzle. Sew a trail of fabric patches from spool to thimble.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  audioplayers: ^6.8.1
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/sfx/
+    - assets/fonts/OFL.txt
+  fonts:
+    - family: JosefinSlab
+      fonts:
+        - asset: assets/fonts/JosefinSlab-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/JosefinSlab-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/JosefinSlab-Bold.ttf
+          weight: 700
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/icon/icon.png
+  adaptive_icon_background: "#F3EADB"
+  adaptive_icon_foreground: assets/icon/foreground.png
+  min_sdk_android: 21
