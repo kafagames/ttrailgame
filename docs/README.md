@@ -6,6 +6,7 @@
 | [GDD.md](GDD.md) | Rules, stars, structure, hints, screens, persistence |
 | [DESIGN_LANGUAGE.md](DESIGN_LANGUAGE.md) | The sewing-room world: palette with jobs, type, icons, spacing, motion, sound, bans |
 | [COMPLIANCE.md](COMPLIANCE.md) | 14-question Play pre-submission audit (all NO) |
+| [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) | Website Terms of Service (publish as HTML at `/terms-of-service/`) |
 | [PRIVACY_POLICY.md](PRIVACY_POLICY.md) | Website privacy policy (publish as HTML at `/privacy-policy/`) |
 | [archive-v1/](archive-v1/) | Docs from the earlier "Patchwork Path" build, kept for reference |
 

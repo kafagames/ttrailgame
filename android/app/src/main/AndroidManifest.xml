@@ -1,4 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The game locks portrait (lib/main.dart). Declare screen features optional so
+         Play does not restrict availability on tablets, Chromebooks and PC. -->
+    <uses-feature android:name="android.hardware.screen.portrait" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
     <application
         android:label="Thimble Trail"
         android:name="${applicationName}"

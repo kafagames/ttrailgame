@@ -1,7 +1,7 @@
 # Privacy Policy — Thimble Trail
 
 **Effective date:** 12 November 2026
-**Last updated:** 12 November 2026
+**Last updated:** 24 November 2026
 
 This Privacy Policy explains how **LADYKAFFY STITCHES ENTERPRISE** ("we", "us", "our") handles information in the mobile game **Thimble Trail** (the "App"), available on Google Play, and on our website https://kafagamaereho.com.ng/. The App is developed by **Kafayat Omowunmi Ewejobi** for LADYKAFFY STITCHES ENTERPRISE, the developer named on the App's Google Play store listing.
 
